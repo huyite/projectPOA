@@ -1,0 +1,17 @@
+.
+bin
+bin/observable
+bin/machine
+bin/graph
+bin/graph/util
+bin/graph/editor
+bin/automaton
+GraphEditor
+GraphEditor/graph
+GraphEditor/graph/util
+GraphEditor/graph/editor
+Automaton
+Automaton/observable
+Automaton/machine
+Automaton/automaton
+C:\Program Files\Objective Caml\lib
